@@ -1,4 +1,5 @@
 /**
+ * Advent of Cyber 2021 - Day 1
  * Input:   File with integer values separated by newlines
  * Output:  Number of three-measurement sliding window sums that are greater than the 
  *          previous window.
